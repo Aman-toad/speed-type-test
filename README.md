@@ -22,6 +22,9 @@ The Speed Typing App is a web-based project that helps users test and improve th
 4. Once the text is completely and correctly typed, the timer stops.
 5. The app will display your typing speed (WPM) and accuracy.
 
+## Link for the page
+here is the link to preview the page [Link](https://aman-toad.github.io/speed-type-test/)
+
 ## Installation
 To run the project locally:
 1. Clone the repository:
@@ -58,6 +61,6 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions or suggestions, please contact:
 -  Aman Singh (developer of this project)
-- **GitHub:** [github-profile-link](https://github.com/your-username)
-- **LinkedIn:** [linkedin-profile-link](https://linkedin.com/in/your-profile)
+- **GitHub:** [github-profile-link](https://github.com/Aman-toad)
+- **LinkedIn:** [linkedin-profile-link](https://www.linkedin.com/in/aman-singh-a00toad/)
 
